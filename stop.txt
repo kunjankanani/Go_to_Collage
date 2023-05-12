@@ -1,0 +1,84 @@
+STOP NO.	STOP NAME
+
+*************************************************
+*************************************************	
+1.  Saurashtra University
+2. Saurastra University Gate
+3. B.T.Savani (Kidney) Hospital
+4. Shiv Shakti Colony
+5. Akashvani Chowk
+6. Jivan Jyot School
+7. Panchayat Nagar Chowk
+8. Indira Circle
+9. S.B.I Bank
+10. Indubai Mahasatiji Chowk - Kotecha Chowk
+11. Swaminarayan Mandir/ Mahila Collage Chowk
+12. Mahila College Chowk (LIC Office )
+13. Astron Chowk/Mahavir Chowk
+14. Hemugadhavi Hall
+15. Ramkrushna Ashram
+16. Malaviya Chowk
+17. Trikonbaug
+18. Jubilee baug
+19. Hospital Chowk
+20. I P Mission
+21. Parevadi Chowk
+22. Ranchoddas Ashram
+23. Gurudev Park
+24. Shree Ram Park - Kuvadva
+25. Greenland Chokdi
+26. Shivdhara Residency
+27. Jai Jawan Jai kisan Society
+28. Indraprasth Society
+29. Velnathpara Beginning ( Nr. School No. 71 )
+30. Velnathpara ( Street No. 17 )
+31. 150 Feet Ring Road - Morbi Road Crossing-Jamnagar road crosing
+32. Bedi village
+33.Bedi Marketing Yard
+34. Gondal Chokadi
+35. P & T Colony/Gitanagar
+36. S.T. Workshop
+37. Panchsheel Society
+38. Shivnagar - Doshi Hospital
+39. P.D.M. College
+40. Makkam Chowk
+41. Kadvibai School	
+42. Aryasamaj
+43. S T Bus Stand
+44. Prasheel Park
+45. A.G. Staff Quarter
+46. Ruda 2
+47. Sarita Vihar Socity
+48. A G Society
+49. Vrundavan Society
+50. Crystal Mall
+51. Atmiya College/Central School
+52. K K V Hall
+53. Wockhardt Hospital
+54. Kisanpara Chowk
+55. Jilla Panchayat Chowk
+56. Dharmendrasinhji College
+57. Ruda Office
+58. Special School For Boys
+59. Bhomeshwer
+60. Railway Colony
+61. Bajarangavadi
+62. Wankaner Society
+63. Gayatri Dhaam
+64. Vora Society
+65. Madhapar chowk
+66. Manharpura - (150 foot road )
+67. Krishna Bangloj (sadhuvasvani kunj road crosing)
+68. Ashatha sangrila
+69. Mukhay Mantri Avash Yojna cawtat
+70. I.O.C.
+71. Gauvridal
+72. Ratanpar Telephone Exchange
+73. Ratanpar Village
+74. Ratnapar ( Ramji Mandir)
+75. Hadala gam patiyu/Darshan eng. Collage
+76. Darshan Engineering collage
+77. Arpit eng. Collage
+***********************************************************
+***********************************************************
+		
